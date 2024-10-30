@@ -1,0 +1,12 @@
+h1{
+    font-size: 300px;
+    background-color: aliceblue;
+}
+div{
+    height: 300px;
+    width: 200px;
+    background-color: antiquewhite;
+    color: aquamarine;
+    display: flex;
+    justify-items: center;
+}
